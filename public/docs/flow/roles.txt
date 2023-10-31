@@ -1,0 +1,8 @@
+- user : create material request
+- dept head : acc material request
+- logistic : adminstration check, create purchase request 
+- warehouse : inventory check (inbound, outbound)
+- cost control : adminstration check
+- project manager
+- ass manager
+- bod
